@@ -1,0 +1,3 @@
+#ignore eclipse specific files in here
+.classpath
+.project
